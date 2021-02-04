@@ -1,0 +1,5 @@
+author: Fan-code
+main: FanAPI\EconomyAPI
+version: 1.0
+api: [3.0.0]
+name: FanEconomyAPI
